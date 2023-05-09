@@ -143,13 +143,11 @@ The value of the key follows the syntax of the `dotbot Link plugin`_.
       user.js: firefox/user.js
       userChrome.css: firefox/userChrome.css
 
-
     # Example 2:
     # "user.js" can have no value, and will be found
     # in the same directory as your dotbot config file.
     firefox:
       user.js:
-
 
     # Example 3:
     # The extended Link plugin syntax is supported.
